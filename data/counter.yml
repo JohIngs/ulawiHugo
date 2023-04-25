@@ -1,0 +1,12 @@
+enable : true
+heading : "Glücklich ist, wer sich bei Sonnenuntergang auf die Sterne freut!"
+counter_item: 
+  - title: "Bäume gepflanzt"
+    number: "250"
+
+  - title: "m² Fläche für Permakultur "
+    number: "5600"
+
+  - title: "Tiegerschnegel gestreichelt"
+    number: "1"
+

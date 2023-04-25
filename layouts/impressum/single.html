@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="site-impressum-header">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h1>{{ .Title }}</h1>
+        <p>
+          {{ .Params.description }}
+        </p>
+        <p>
+          {{ .Content }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
