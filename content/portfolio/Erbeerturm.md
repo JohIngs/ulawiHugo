@@ -3,7 +3,7 @@ title: "Erdbeerturm"
 date: 2023-04-23T20:56:42+06:00
 type: portfolio
 image: "images/projects/Erbeerturm1.jpg"
-category: ["Bauprokekt"]
+category: ["Bauprojekt"]
 project_images: ["images/projects/Erdbeerturm2.png", "images/projects/Erbeerturm3.jpg"]
 ---
 
