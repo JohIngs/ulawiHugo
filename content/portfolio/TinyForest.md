@@ -2,9 +2,9 @@
 title: "Tiny Forest"
 date: 2022-11-23T15:44:46+06:00
 type: portfolio
-image: "images/projects/TinyForest.jpg"
+image: "images/projects/TinyForest1.jpg"
 category: ["Wachsen lassen"]
-project_images: ["images/projects/TinyForest.jpg", "images/projects/TinyForest2.jpg"]
+project_images: ["images/projects/TinyForest1.jpg", "images/projects/TinyForest2.jpg"]
 ---
 
 Vielleicht erinnert ihr euch auch noch an die Orkanserie, die im Winter 21/22 über uns hinweggefegt ist. Auch auf der Ulawiese sind einige Dinge durch die Gegend geflogen, die dafür nicht gedacht waren und in Dinge und Lebewesen hineingekracht, die wiederum dazur nicht gemacht waren.Wir haben das zum Anlass genommen, uns mit dem Konzept der Tiny Forests auseinanderzusetzten. Sie werden auch Miyawaki Wälder genannt, nach dem japanischen Botaniker Akira Miyawaki, der sich diese besondere Methode für die Waldpflanzung ausgedacht hat. Das charmante an der Methode: auf sehr kleinem Raum kann man in relativ kurzer Zeit einen enormaen Zuwachs von Biodiversität fördern, als auch von einem lebenden Windbreaker profitieren. Hier weiterlesen, falls du neugierig geworden bist und weitere Infos dazu suchst https://www.weforum.org/agenda/2020/07/tiny-urban-forests-miyawaki-biodiversity-carbon-capture/
